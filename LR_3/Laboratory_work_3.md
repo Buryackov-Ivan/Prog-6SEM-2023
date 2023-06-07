@@ -10,7 +10,7 @@
 
 При выполнении в Colab не забудьте выгрузить файл train.csv из repl.it или курса Moodle и загрузить этот файл в папку рядом с каталогом sample_data (см. скриншот ниже) в Google Colab.
 
-![alt text](https://imgur.com/gallery/tK4Xvqa)
+[![2021-03-02-14-41-53.png](https://i.postimg.cc/5NXDM3XY/2021-03-02-14-41-53.png)](https://postimg.cc/ykzLm0Xs)
 
 Выполните все задания и сделайте тесты для каждой написанной функции как показано в примере. 
 

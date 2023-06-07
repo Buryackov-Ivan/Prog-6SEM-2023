@@ -6,14 +6,9 @@
 
 ## Задания:
 
-### Инвариантные Самостоятельные Работы (ИСР):
+### Лабораторные работы:
 
-* [Задание 1.1. ИСР](https://github.com/Buryackov-Ivan/Buryakov-Ivan.github.io/blob/main/ИСР%201.1.md)
-* [Задание 1.2. ИСР](https://github.com/Buryackov-Ivan/Buryakov-Ivan.github.io/blob/main/ИСР%201.2.md)
-* [Задание 1.3. ИСР](https://github.com/Buryackov-Ivan/Buryakov-Ivan.github.io/blob/main/ИСР%201.3.md)
+* [Лабораторная работа 1-2]([https://github.com/Buryackov-Ivan/Buryakov-Ivan.github.io/blob/main/ИСР%201.1.md](https://github.com/Buryackov-Ivan/Prog-6SEM-2023/blob/main/LR_1-2/Laboratory_work_1-2.md))
+* [Лабораторная работа 3]([https://github.com/Buryackov-Ivan/Buryakov-Ivan.github.io/blob/main/ИСР%201.2.md](https://github.com/Buryackov-Ivan/Prog-6SEM-2023/blob/main/LR_1-2/Laboratory_work_1-2.md))
+* [Лабораторная работа 4](https://github.com/Buryackov-Ivan/Buryakov-Ivan.github.io/blob/main/ИСР%201.3.md)
 
-### Выриативные Самостоятельные Работы (ВСР):
-
-* [Задание 2.1. ВСР](https://github.com/Buryackov-Ivan/Buryakov-Ivan.github.io/blob/main/ВСР%202.1.md)
-* [Задание 2.2. ВСР](https://github.com/Buryackov-Ivan/Buryakov-Ivan.github.io/blob/main/ВСР%202.2.md)
-* [Задание 2.3. ВСР](https://github.com/Buryackov-Ivan/Buryakov-Ivan.github.io/blob/main/ВСР%202.3.md)

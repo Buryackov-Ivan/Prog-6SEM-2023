@@ -19,4 +19,4 @@
 ### Решение:
 
 
-URL: [Лабораторная работа 6](https://replit.com/@Buryackov-Ivan/6SEM-LR3?migrateNonNix=1)
+URL: [Лабораторная работа 6](https://colab.research.google.com/drive/1TGALl7ULLoCNxY9UCnh5jC2voCl-H9aT?usp=sharing)

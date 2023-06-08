@@ -7,7 +7,7 @@
 
 Ссылка на файлы: [GitHub](https://github.com/Buryackov-Ivan/Prog-6SEM-2023/tree/main/LR_9/Work_files)
 
-В папке Work_files не хватает файлов [age_net.caffemodel](https://disk.yandex.ru/d/7M5Tuu0Mix2mbw) и [gender_net.caffemodel](https://disk.yandex.ru/d/6uY2kxzkRsC8KA)
+В папке "Work_files" не хватает файлов [age_net.caffemodel](https://disk.yandex.ru/d/7M5Tuu0Mix2mbw) и [gender_net.caffemodel](https://disk.yandex.ru/d/6uY2kxzkRsC8KA)
 
 ***Распознавание людей с фото:***
 

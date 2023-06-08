@@ -76,4 +76,4 @@ plt.show()
 ### Решение:
 
 
-URL: [Лабораторная работа 7](https://replit.com/@Buryackov-Ivan/6SEM-LR3?migrateNonNix=1)
+URL: [Лабораторная работа 7](https://colab.research.google.com/drive/18Wt2vwVszFDDaewZuwOL61Lr_NFiXhLA#scrollTo=nom9R7WinK2A)

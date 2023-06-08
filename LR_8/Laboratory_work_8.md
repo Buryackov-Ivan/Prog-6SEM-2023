@@ -27,4 +27,4 @@
 ### Решение:
 
 
-URL: [Лабораторная работа 8](https://replit.com/@Buryackov-Ivan/6SEM-LR3?migrateNonNix=1)
+URL: [Лабораторная работа 8](https://github.com/Buryackov-Ivan/Prog-6SEM-2023/blob/main/LR_8/Report/Report.md)

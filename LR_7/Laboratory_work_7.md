@@ -68,6 +68,10 @@ plt.show()
 
 По ссылкам ниже вы найдете примеры использование этой модели: 
 
+* https://thecode.media/](https://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html#sphx-glr-auto-examples-linear-model-plot-ols-py
+* https://towardsdatascience.com/polynomial-regression-bbe8b9d97491
+* http://espressocode.top/python-implementation-of-polynomial-regression/
+
 
 ### Решение:
 

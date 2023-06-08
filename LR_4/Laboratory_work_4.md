@@ -31,4 +31,4 @@ https://colab.research.google.com/drive/1KaxKL0UV7ee98C5d8BOib7yudpFdUXNl?usp=sh
 ### Решение:
 
 
-URL: [Лабораторная работа 4](https://colab.research.google.com/drive/13L9ZKLfShET9gTW1SnS-MxjhsWPDI3uJ?usp=sharing)
+URL: [Лабораторная работа 4](https://colab.research.google.com/drive/19_FE3YnQWJCxY5l_-J0GzqEV9e9KNXEa?usp=sharing)

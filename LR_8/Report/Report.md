@@ -5,7 +5,7 @@
 
 ### Решение:
 
-Ссылка на файлы:[GitHub](https://github.com/Buryackov-Ivan/Prog-6SEM-2023/tree/main/LR_8/Work_files)
+Ссылка на файлы: [GitHub](https://github.com/Buryackov-Ivan/Prog-6SEM-2023/tree/main/LR_8/Work_files)
 
 ***Распознавание людей с фото:***
 

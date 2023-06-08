@@ -25,4 +25,4 @@
 ### Решение:
 
 
-URL: [Лабораторная работа 9](https://replit.com/@Buryackov-Ivan/6SEM-LR3?migrateNonNix=1)
+URL: [Лабораторная работа 9](https://github.com/Buryackov-Ivan/Prog-6SEM-2023/blob/main/LR_9/Report/Report.md)

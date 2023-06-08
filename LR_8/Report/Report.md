@@ -7,7 +7,7 @@
 
 ***Распознавание людей с фото:***
 
-![image.png](https://github.com/Buryackov-Ivan/Prog-6SEM-2023/blob/main/LR_8/Work_files/Report/Report-LR-8(1).png?raw=true)
+![image.png](https://github.com/Buryackov-Ivan/Prog-6SEM-2023/blob/main/LR_8/Report/Report-LR-8(1).png?raw=true)
 
 ***Распознавание людей с камеры:***
 

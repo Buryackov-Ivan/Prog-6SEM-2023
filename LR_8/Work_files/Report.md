@@ -5,3 +5,4 @@
 
 ### Решение:
 
+![image.png](https://i.postimg.cc/4xbmPKj8/image.png)

@@ -11,4 +11,4 @@
 
 ***Распознавание людей с камеры:***
 
-![image.png](https://github.com/Buryackov-Ivan/Prog-6SEM-2023/blob/main/LR_8/Work_files/Report/Report-LR-8(2).png?raw=true)
+![image.png](https://github.com/Buryackov-Ivan/Prog-6SEM-2023/blob/main/LR_8/Report/Report-LR-8(2).png?raw=true)

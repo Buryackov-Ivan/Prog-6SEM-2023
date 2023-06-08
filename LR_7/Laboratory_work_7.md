@@ -25,7 +25,7 @@
 ```
 %%capture
 !wget https://gist.githubusercontent.com/nzhukov/3f5d37624c0cdce27f19cf7dad8fd29a/raw/7d3cba39872ee086c698e1fa2b283c45d064979d/ex1data2.txt  # этот пункт можно не выполнять,
-# данные лежат в Moodle: Источник данных ИСР 1.3.
+# данные лежат в Moodle: Источник данных [ИСР 1.3](https://github.com/Buryackov-Ivan/Prog-6SEM-2023/blob/main/LR_7/%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%98%D0%A1%D0%A0%201.3.txt).
 ```
 
 ```

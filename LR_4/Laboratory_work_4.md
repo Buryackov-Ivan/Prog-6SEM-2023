@@ -28,6 +28,8 @@ https://colab.research.google.com/drive/1KaxKL0UV7ee98C5d8BOib7yudpFdUXNl?usp=sh
 * 10 - cyan
 * 20 - red
 
+Данные для ЛР: [web_traffic.tsv](https://github.com/Buryackov-Ivan/Prog-6SEM-2023/blob/main/LR_4/web_traffic.tsv)
+
 ### Решение:
 
 

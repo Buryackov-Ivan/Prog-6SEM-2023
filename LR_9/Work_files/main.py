@@ -97,5 +97,13 @@ def findFaces(pic_or_cam=None):
 
 
 if __name__ == '__main__':
-    findFaces()  # Распознавание с камеры
-    #findFaces('./photodune-2359510.jpg')  # Распознавание с фото
+    print("Откуда брать иззображение?\n С камеры - cam\n С файла - file")
+    data = input("Введите источник: ")
+    if data == 'cam':
+        findFaces()
+    elif data == 'file':
+        file = input("Введите полное название файла: ")
+        print("Название: ", file)
+        findFaces(file)
+    else:
+        print("Неверный формат!")

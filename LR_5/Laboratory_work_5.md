@@ -20,4 +20,4 @@ https://colab.research.google.com/drive/1KaxKL0UV7ee98C5d8BOib7yudpFdUXNl#scroll
 ### Решение:
 
 
-URL: [Лабораторная работа 5](https://colab.research.google.com/drive/1LSwQKI8k4y5f7cUWQw1adgVeKNRbgVid?usp=sharing)
+URL: [Лабораторная работа 5](https://colab.research.google.com/drive/19_FE3YnQWJCxY5l_-J0GzqEV9e9KNXEa?usp=sharing#scrollTo=NdlzsZ5gM-64)
